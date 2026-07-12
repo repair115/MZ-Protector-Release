@@ -1,24 +1,32 @@
-# M.Z Protector - Download
+# ام.زد پروتکتور - دانلود
 
-## Latest Release: v1.7.217
+## آخرین نسخه: 1.7.217
 
-### Download APKs
+### دانلود فایل نصبی
 
-Download the latest release from: [GitHub Releases](https://github.com/repair115/MZ-Protector-Release/releases)
+آخرین نسخه رو از [ریلیزهای گیتهاب](https://github.com/repair115/MZ-Protector-Release/releases) دانلود کنید.
 
-### Which APK do I need?
+### کدوم نسخه رو دانلود کنم؟
 
-- **Not sure?** → Download **universal** (works on all devices)
-- **Modern Android phone (2020+)** → Download **arm64-v8a** (smaller, faster)
-- **Older Android phone** → Download **armeabi-v7a**
+| نسخه | مناسب برای |
+|------|------------|
+| **universal** | اگه مطمئن نیستید - روی همه دستگاه‌ها کار میکنه |
+| **arm64-v8a** | گوشی‌های جدید 2019 به بعد (اکثر گوشی‌های امروزی) |
+| **armeabi-v7a** | گوشی‌های قدیمی‌تر از 2019 |
 
-### Installation
+### راهنمای نصب
 
-1. Download the APK for your device
-2. Enable "Install from unknown sources" in your Android settings
-3. Open the downloaded APK file
-4. Follow the installation prompts
+1. فایل نصبی مناسب دستگاهتون رو دانلود کنید
+2. در تنظیمات گوشی، گزینه "نصب از منابع ناشناخته" رو فعال کنید
+3. فایل دانلود شده رو باز کنید
+4. مراحل نصب رو دنبال کنید
 
-### Activation
+### فعال‌سازی
 
-After installation, enter your activation code in the app to start using M.Z Protector.
+بعد از نصب، کد فعال‌سازی خودتون رو در برنامه وارد کنید تا شروع به استفاده کنید.
+
+### نسخه‌های معماری
+
+- **ARM64 (v8a)**: از سال 2019 (1398 شمسی) به بعد روی اکثر گوشی‌ها استفاده شده
+- **ARM (v7a)**: گوشی‌های قدیمی‌تر از 2019
+- **x86_64 / x86**: امولاتورها و کروم‌اواس
